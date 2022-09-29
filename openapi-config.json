@@ -1,0 +1,7 @@
+{
+    "inputSpec": "https://developer.atlassian.com/cloud/jira/platform/swagger-v3.v3.json",
+    "output": "src/version_3/schemas",
+    "generatorName": "rust",
+    "apiDocs": false,
+    "modelDocs": false
+}
